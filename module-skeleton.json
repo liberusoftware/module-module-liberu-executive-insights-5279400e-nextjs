@@ -1,0 +1,17 @@
+{
+  "repository": "module-module-liberu-executive-insights-5279400e-nextjs",
+  "capabilityKey": "liberusoftware/module-liberu-executive-insights",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-module-liberu-executive-insights-5279400e-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/liberu-executive-insights.md",
+  "presentationPlan": "projects/accounting/nextjs/liberu-executive-insights.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "billing",
+    "genealogy"
+  ]
+}
